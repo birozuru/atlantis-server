@@ -1,3 +1,4 @@
 .terraform
 tfplan.out
 vault-pass-file
+vault-pass-file
