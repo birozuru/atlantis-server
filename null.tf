@@ -1,0 +1,2 @@
+resource "null resource" "test" {
+}
