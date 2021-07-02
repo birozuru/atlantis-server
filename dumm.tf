@@ -1,0 +1,3 @@
+ 
+resource "null resource" "example" {
+}
